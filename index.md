@@ -15,8 +15,8 @@ Syntax highlighted code block
 ## Header 4
 ### Header 3
 
-- The instructors are AWESOME !
-- The class is very helpful
+- Instructors are AWESOME !
+- Class is very helpful
 
 1. Numbered
 2. List
