@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 # Junseok's first CS193 Lab
 ## Header 4
-### Header 3
+### Header
 
 - Instructors are AWESOME !
 - Class is very helpful
